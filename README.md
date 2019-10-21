@@ -4,7 +4,9 @@ Listing of presentations I did on various meetups and conferences.
 
 | Year          | Topic         | Event  |  Slides/Video | 
 | ------------- |-------------| ------|--------------|
-| 2019, May          | **Frontend microservices**| Voxxed Days, Bucharest |  TBD |
+| 2019, November          | **Frontend microservices**| JStalks, Sofia |  TBD |
+| 2019, October          | **Frontend microservices**| Codemotion meetup, Amsterdam |  [Slides](https://www.slideshare.net/michailkuznetsov/front-end-microservices-architectures-and-solution) |
+| 2019, May          | **Frontend microservices**| Voxxed Days, Bucharest |  NA |
 | 2018, November          | **DApps**<br> Building decentralised apps with JS | Devoxx Morocco | [Slides](https://www.slideshare.net/michailkuznetsov/building-decentralised-apps-with-js-devoxx-morocco-2018) |
 | 2018, September          | **Smart contracts & Dapps**<br> Smart contracts and DApps for JS developers | Fronetd conf Moscow |  |
 | 2018, June          | **Smart contracts & Dapps**<br> Smart contracts and DApps for JS developers | UtahJS | [Video](https://www.youtube.com/watch?v=uyggGNpBx1A&list=PLuVqdWOQ-PNn_lDYUVgcA4e91qxJzipva&index=12) |
