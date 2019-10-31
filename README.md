@@ -5,6 +5,7 @@ Listing of presentations I did on various meetups and conferences.
 | Year          | Topic         | Event  |  Slides/Video | 
 | ------------- |-------------| ------|--------------|
 | 2019, November          | **Frontend microservices**| JStalks, Sofia |  TBD |
+| 2019, October          | **GraphQL pilot @ ING Investments**| Web development meetup, Zwolle |  [Slides](https://www.slideshare.net/michailkuznetsov/graphql-pilot-ing-investments-188890754) |
 | 2019, October          | **Frontend microservices**| Codemotion meetup, Amsterdam |  [Slides](https://www.slideshare.net/michailkuznetsov/front-end-microservices-architectures-and-solution) |
 | 2019, May          | **Frontend microservices**| Voxxed Days, Bucharest |  NA |
 | 2018, November          | **DApps**<br> Building decentralised apps with JS | Devoxx Morocco | [Slides](https://www.slideshare.net/michailkuznetsov/building-decentralised-apps-with-js-devoxx-morocco-2018) |
