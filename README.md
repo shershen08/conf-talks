@@ -1,4 +1,15 @@
-# conf-talks
+## About me
+
+Amsterdam based fullstack ;) developer, speaker, trainer, noob sailor.
+
+Twitter: [@legkoletat](https://twitter.com/legkoletat)
+
+My presentations on [Slideshare](https://www.slideshare.net/michailkuznetsov/)
+
+[LinkedIn](https://www.linkedin.com/in/michailkuznetcov/)
+
+
+## Talks and presentations
 
 Listing of presentations I did on various meetups and conferences.
 
@@ -16,12 +27,3 @@ Listing of presentations I did on various meetups and conferences.
 | 2017          | **VueJS**<br>The essence of Web Components and comparing the developer experience and overall architecture. | Amsterdam Frontend meetup | [Slides](https://www.slideshare.net/michailkuznetsov/web-componets-api-vuejs)|
 
 
-### About me
-
-Russian based in Amsterdam. 
-
-Fullstack ;) developer, speaker, trainer, noob sailor.
-
-Twitter: [@legkoletat](https://twitter.com/legkoletat)
-
-[LinkedIn](https://www.linkedin.com/in/michailkuznetcov/)
