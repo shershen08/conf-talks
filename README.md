@@ -2,7 +2,7 @@
 
 Amsterdam based fullstack ;) developer, speaker, trainer, noob sailor.
 
-Twitter: [@legkoletat](https://twitter.com/legkoletat)
+Twitter: [@shershen08](https://twitter.com/shershen08)
 
 My presentations on [Slideshare](https://www.slideshare.net/michailkuznetsov/)
 
