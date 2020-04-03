@@ -26,4 +26,9 @@ Listing of presentations I did on various meetups and conferences.
 | 2017          | **VueJS**<br> New incrementally-adoptable JavaScript framework for building UI on the web for AngularJS developers | Amsterdam Frontend meetup | [Slides](https://www.slideshare.net/michailkuznetsov/vuejs-for-angular-developers) |
 | 2017          | **VueJS**<br>The essence of Web Components and comparing the developer experience and overall architecture. | Amsterdam Frontend meetup | [Slides](https://www.slideshare.net/michailkuznetsov/web-componets-api-vuejs)|
 
+## Live coding and Youtube videos
+
+ - (RU) Обзор возможностей SvelteJS - https://youtu.be/watch?v=JcmenBSMOho
+ - (Ru) React vs Angular vs Vue - https://youtu.be/ldqvYmSfdYk?t=3388
+
 
