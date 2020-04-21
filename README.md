@@ -15,7 +15,7 @@ Listing of presentations I did on various meetups and conferences.
 
 | Year          | Topic         | Event  |  Slides/Video | 
 | ------------- |-------------| ------|--------------|
-| 2020, April          | **Handling Errors in Vue Apps**| Vue Global Meetup, online |  [Slides](https://drive.google.com/open?id=1AYMlIouC7yohohXewP5N3zk6pJNLAuak) [Video](soon) |
+| 2020, April          | **Handling Errors in Vue Apps**| Vue Global Meetup, online |  [Slides](https://drive.google.com/open?id=1AYMlIouC7yohohXewP5N3zk6pJNLAuak) [Video](https://youtu.be/TZ9wXKVQSWo?t=1851) |
 | 2019, November          | **Frontend microservices**| JStalks, Sofia |  [Slides](https://drive.google.com/file/d/1oXS3iRatia49xG8RI2-XLf114tMYVB7h/view?usp=sharing) |
 | 2019, October          | **GraphQL pilot @ ING Investments**| Web development meetup, Zwolle |  [Slides](https://www.slideshare.net/michailkuznetsov/graphql-pilot-ing-investments-188890754) |
 | 2019, October          | **Frontend microservices**| Codemotion meetup, Amsterdam |  [Slides](https://www.slideshare.net/michailkuznetsov/front-end-microservices-architectures-and-solution) |
