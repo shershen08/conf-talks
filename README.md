@@ -29,7 +29,7 @@ Listing of presentations I did on various meetups and conferences.
 
 ## Live coding and Youtube videos
 
- - (RU) Обзор возможностей SvelteJS - https://youtu.be/watch?v=JcmenBSMOho
+ - (RU) Обзор возможностей SvelteJS - https://www.youtube.com/watch?v=JcmenBSMOho
  - (Ru) React vs Angular vs Vue - https://youtu.be/ldqvYmSfdYk?t=3388
 
 
