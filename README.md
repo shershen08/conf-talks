@@ -15,7 +15,7 @@ Listing of presentations I did on various meetups and conferences.
 
 | Year          | Topic         | Event  |  Slides/Video | 
 | ------------- |-------------| ------|--------------|
-| 2020, May          | **Vuejs V3 composition API**| DINS JS Evening, online |  [Slides (RU)](https://www.slideshare.net/secret/swlW0CRgJRXo0O)|
+| 2020, May          | **Vuejs V3 composition API**| DINS JS Evening, online |  [Slides (RU)](https://www.slideshare.net/secret/swlW0CRgJRXo0O), [Video](https://www.youtube.com/watch?v=ZdIS1HH7YNc&list=PLhhTXwj6_Fl0AokGbITrLrXoA3Hh9UhI5&index=2)|
 | 2020, April          | **Handling Errors in Vue Apps**| Vue Global Meetup, online |  [Slides](https://drive.google.com/open?id=1AYMlIouC7yohohXewP5N3zk6pJNLAuak), [Video](https://youtu.be/TZ9wXKVQSWo?t=1851) |
 | 2019, November          | **Frontend microservices**| JStalks, Sofia |  [Slides](https://drive.google.com/file/d/1oXS3iRatia49xG8RI2-XLf114tMYVB7h/view?usp=sharing) |
 | 2019, October          | **GraphQL pilot @ ING Investments**| Web development meetup, Zwolle |  [Slides](https://www.slideshare.net/michailkuznetsov/graphql-pilot-ing-investments-188890754) |
@@ -31,6 +31,7 @@ Listing of presentations I did on various meetups and conferences.
 ## Live coding and Youtube videos
 
  - (RU) Обзор возможностей SvelteJS - https://www.youtube.com/watch?v=JcmenBSMOho
- - (Ru) React vs Angular vs Vue - https://youtu.be/ldqvYmSfdYk?t=3388
+ - (RU) React vs Angular vs Vue - https://youtu.be/ldqvYmSfdYk?t=3388
+ - (RU) VueJS V3 Composition API - https://www.youtube.com/watch?v=ZdIS1HH7YNc&list=PLhhTXwj6_Fl0AokGbITrLrXoA3Hh9UhI5&index=2
 
 
