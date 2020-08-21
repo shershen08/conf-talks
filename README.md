@@ -16,6 +16,7 @@ Listing of presentations I did on various meetups and conferences.
 | Year          | Topic         | Event  |  Slides/Video | 
 | ------------- |-------------| ------|--------------|
 | 2020, June          | **Build full featured frontend app with SvelteJS**| JSNation 2020, online |  [Slides (EN)](https://bit.ly/svelte-workshop-2020)|
+| 2020, June          | **A Deep Dive Into VueJS v3 and Composition API**| Code Chrysalis school Tokyo, online |  [Slides (EN)](https://drive.google.com/file/d/11uVdcXODes3_evVyLxLUWIkXodPBdRCC/view?usp=sharing)|
 | 2020, May          | **Vuejs V3 composition API**| DINS JS Evening, online |  [Slides (RU)](https://www.slideshare.net/secret/swlW0CRgJRXo0O), [Video](https://www.youtube.com/watch?v=ZdIS1HH7YNc&list=PLhhTXwj6_Fl0AokGbITrLrXoA3Hh9UhI5&index=2)|
 | 2020, April          | **Handling Errors in Vue Apps**| Vue Global Meetup, online |  [Slides](https://drive.google.com/open?id=1AYMlIouC7yohohXewP5N3zk6pJNLAuak), [Video](https://youtu.be/TZ9wXKVQSWo?t=1851) |
 | 2019, November          | **Frontend microservices**| JStalks, Sofia |  [Slides](https://drive.google.com/file/d/1oXS3iRatia49xG8RI2-XLf114tMYVB7h/view?usp=sharing) |
