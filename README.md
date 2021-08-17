@@ -15,9 +15,8 @@ Listing of presentations I did on various meetups and conferences.
 
 | Year          | Topic         | Event  |  Slides/Video | 
 | ------------- |-------------| ------|--------------|
-| 2021, March       | **Build full featured frontend app with SvelteJS** 3-h workshop| NDC Workshops, online | - |
-| 2021, February       | **Practical Vue.js development** 1-day workshop| JSworld Conference, online | - |
-| 2021, February       | **SvelteJS crash course webinar**| JSworld Conference, online | - |
+| 2021, July       | **Vue3: Modern Frontend App Development** 3-h workshop| JSNation, online | Slides (EN) |
+| 2021, June       | **SvelteJS for practical developers** 3-h workshop| JNation, online | [Slides (EN)](https://drive.google.com/file/d/119mTqujfKNXqYWYYqTkrg87SP0WPcy-I/view?usp=sharing) |
 | 2020, October       | **Build full featured frontend app with SvelteJS**| React Days 2020, online |  [Slides (EN)](https://bit.ly/svelte-workshop-2020)|
 | 2020, June          | **Build full featured frontend app with SvelteJS**| JSNation 2020, online |  [Slides (EN)](https://bit.ly/svelte-workshop-2020)|
 | 2020, June          | **A Deep Dive Into VueJS v3 and Composition API**| Code Chrysalis school Tokyo, online |  [Slides (EN)](https://drive.google.com/file/d/11uVdcXODes3_evVyLxLUWIkXodPBdRCC/view?usp=sharing)|
