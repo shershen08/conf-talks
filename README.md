@@ -15,6 +15,7 @@ Listing of presentations I did on various meetups and conferences.
 
 | Year          | Topic         | Event  |  Slides/Video | 
 | ------------- |-------------| ------|--------------|
+| 2021, November       | **Vue3: Practical frontend development** 2-h workshop| WeAreDevelopers JavaScript Congress, online | [GitHub repo](https://github.com/shershen08/vue3-workshop-demo-2021) |
 | 2021, October       | **Vue3: Modern Frontend App Development** 3-h workshop| Vue.js London, online | [Slides (EN)](https://bit.ly/vue3-wsh-2021) |
 | 2021, July       | **Vue3: Modern Frontend App Development** 3-h workshop| JSNation, online |  |
 | 2021, June       | **SvelteJS for practical developers** 3-h workshop| JNation, online | [Slides (EN)](https://drive.google.com/file/d/119mTqujfKNXqYWYYqTkrg87SP0WPcy-I/view?usp=sharing) |
