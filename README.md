@@ -15,7 +15,7 @@ Listing of presentations I did on various meetups and conferences.
 
 | Year          | Topic         | Event  |  Slides/Video | 
 | ------------- |-------------| ------|--------------|
-| 2022, June       | **VUE3: MODERN FRONTEND APP DEVELOPMENT**  | Vue.js Amsterdam 22, online |  |
+| 2022, June       | **VUE3: MODERN FRONTEND APP DEVELOPMENT**  | Vue.js Amsterdam 22, online | [GitHub repo](https://github.com/shershen08/vue3-workshop-content) |
 | 2022, May       | **Managing state in Vue applications**  | Vue.js Global Summit 22, online | [GitHub repo](https://github.com/shershen08/vue-storing-data-examples) |
 | 2021, November       | **Vue3: Practical frontend development** 2-h workshop| WeAreDevelopers JavaScript Congress, online | [GitHub repo](https://github.com/shershen08/vue3-workshop-demo-2021) |
 | 2021, October       | **Vue3: Modern Frontend App Development** 3-h workshop| Vue.js London, online | [Slides (EN)](https://bit.ly/vue3-wsh-2021) |
