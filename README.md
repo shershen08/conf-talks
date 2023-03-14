@@ -15,6 +15,8 @@ Listing of presentations I did on various meetups and conferences.
 
 | Year          | Topic         | Event  |  Slides/Video | 
 | ------------- |-------------| ------|--------------|
+| 2023, June       | Building a full eCommerce UI in Vue3, 3-h workshop | Vue.js London, online  |  |
+| 2023, May       | Using Astro with Vue to build efficient frontend apps  | VUE.JS Global Summit  |  |
 | 2022, June       | Managing state in Vue3 applications  | JSNation  |  |
 | 2022, June       | **VUE3: MODERN FRONTEND APP DEVELOPMENT**  | Vue.js Amsterdam  | [GitHub repo](https://github.com/shershen08/vue3-workshop-content) |
 | 2022, May       | **Managing state in Vue3 applications**  | Vue.js Global Summit 22, online | [GitHub repo](https://github.com/shershen08/vue-storing-data-examples) |
